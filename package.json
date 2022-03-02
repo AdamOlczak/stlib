@@ -1,0 +1,11 @@
+{
+  "name": "scroll_tracking_lib",
+  "version": "1.0.0",
+  "description": "Small and customizable scroll tracking library",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2"
+  }
+}
